@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hotel Booking App</string>
+    <string name="fill_your_information_below_or_register_with_your_social_account">Fill your information below or register with your social account</string>
+    <string name="todo">TODO</string>
+    <string name="or_with">Or SignUp With</string>
+    <string name="we_missed_you_login_to_continue_your_journey_with_us">We missed you! Login to continue your journey with us.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dd_mm_yy">DD/MM/YY</string>
+    <string name="description">Nestled in the lush tropical paradise of Jimbaran, Bali, AYANA Resort and Spa offers an enchanting escape for travelers seeking luxury, relaxation, an breathtaking ocean views.</string>
+</resources>
